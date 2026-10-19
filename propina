@@ -24,7 +24,8 @@
     <button id="calcular" type="button">calcular</button>
     <p>propina: <span id="propina">0</span>€</p>
 
-
+<footer>
+<p> 2026 mi carpeta de rama
     <script src="propina.js"></script>
 </body>
 
