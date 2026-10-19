@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 
+body{
+    font-family:Verdana,sans-serif; background: #f3f7f4;color: #1d2b24;max-width: 400px;margin: 300px auto;padding: 0 16px;
+}
+h1{
+    color: #1f6f4a;
+}
+label{
+    display: block;margin-top: 14px;font-weight: bold;
+}
+input,select{
+    width: 100%;padding: 8px;font-size: 16px;box-sizing:border-box;
+}
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
