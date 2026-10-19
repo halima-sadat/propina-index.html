@@ -9,8 +9,10 @@
 </head>
 
 <body>
-
-
+<nav>
+<a harf="#">inicio</a>
+<a harf="#">contacto</a>
+/nav>
     <h1>Calculador da le pagina </h1>
     <label for="cuenta">Importe la cuenta(€)</label>
     <input id="cuenta" type="number">
