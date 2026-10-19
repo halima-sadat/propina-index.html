@@ -25,7 +25,8 @@
     <p>propina: <span id="propina">0</span>€</p>
 
 <footer>
-<p> 2026 mi carpeta de rama
+<p> 2026 mi carpeta de rama</p>
+
     <script src="propina.js"></script>
 </body>
 
